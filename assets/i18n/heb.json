@@ -51,7 +51,7 @@
     "preLaunchFilter_doneLoginButtonText": "התחבר ושמור על הסינון שלי לחיפוש הבא",
     "preLaunchFilter_goToCostumeMenu": "עבור לתפריט מותאם ללא שמירה",
     "primaryUserDinerText":"אני",
-    "preLaunchFilter_tagInputPlaceholder": "לדוגמא: חריף, מנה קטנה, ירקות, תותים",
+    "preLaunchFilter_tagInputPlaceholder": "לדוגמא: חריף, מנה קטנה, ירקות, חציל, כוסברה",
     "preLaunchFilter_or" : "או",
     "preLaunchFilter_alreadyRegistered" : "כבר רשום?",
     "preLaunchFilter_eatAll" : "אוכל הכל",
@@ -63,6 +63,8 @@
     "preLaunchFilter_sure" : "בטח",
     "preLaunchFilter_anotherTime" : "בפעם אחרת",
     "preLaunchFilter_dishesInTheMenu" : "מנות בתפריט",
+    "preLaunchFilter_closeDropdown" : "סיימתי",
+
 
     "settingTitle" : "הגדרות המסעדה",
     "menuName" : "שם התפריט",
