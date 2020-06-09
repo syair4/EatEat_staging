@@ -21,9 +21,9 @@
     "preLaunchFilter_HeaderText1" :  "רוצים לראות רק את המנות שמתאימות לטעם שלכם? ענו על שלוש שאלות",
     "preLaunchFilter_HeaderText2" : "אז מה אתם אוכלים?",
     "logout" : "התנתק",
-    "loginDialogContent" : "שלום! אנא בחר איך להתחבר",
-    "loginFacebook" : "התחבר עם Facebook",
-    "loginGoogle" : "התחבר עם Google",
+    "loginDialogContent" : "התחבר עם",
+    "loginFacebook" : "Facebook",
+    "loginGoogle" : "Google",
     "addUserFromListDialogTitle" : "הוסף את החברים שלך",
     "addUserFromListDialogNoConnectedtitle" : "אין חברים מקושרים",
     "close" : "סגור",
@@ -66,6 +66,17 @@
     "preLaunchFilter_closeDropdown" : "סיימתי",
     "preLaunchFilter_x" : "x",
     "nutrition": "תזונות",
+    "newUserQuiz_addName": "למי אנחנו מוצאים מנות מתאימות?",
+    "newUserQuiz_forbiddenText1":"מרכיב, טעם או סוג אוכל שהם",
+    "newUserQuiz_forbiddenText2":" לא אוהבים?",
+    "newUserQuiz_favoriteText1":"מרכיב, טעם או סוג אוכל",
+    "newUserQuiz_favoriteText2":"שהם אוהבים לאכול?",
+    "newUserQuiz_eatAll" : "אוכלים הכל",
+    "newUserQuiz_loveAll" : " אוהבים הכל",
+    "newUserQuiz_Like" : "הם אוהבים...",
+
+
+
 
     "settingTitle" : "הגדרות המסעדה",
     "menuName" : "שם התפריט",
